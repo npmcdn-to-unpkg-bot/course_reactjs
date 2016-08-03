@@ -1,0 +1,16 @@
+/* Styles go here */
+body{
+  font-family:'Arial';
+}
+button{
+  color:white;
+  border-radius:5px;
+  margin:3px;
+  padding:10px;
+  background: tomato;
+  border:none;
+}
+button:hover{
+  background: #de563d;
+  cursor:pointer; 
+}
